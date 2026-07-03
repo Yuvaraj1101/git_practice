@@ -58,3 +58,5 @@ print(" i made changes in master branch for revert")
 
 # after this i am gonna learn reset
 print(" 1 for reset ")
+
+print(" 2 for reset ")
