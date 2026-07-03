@@ -50,9 +50,5 @@ dog.set_breed("Golden Retriever")
 
 print("Updated Breed:", dog.get_breed())
 
-<<<<<<< HEAD
 print("i made this change for a rebase test")
 
-=======
-print(" i am leraning rebase in a f1 branch")
->>>>>>> d0c198f (i made a change in f1 for learning rebase)
