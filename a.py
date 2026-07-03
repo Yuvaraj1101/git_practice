@@ -54,5 +54,3 @@ print("i made this change for a rebase test")
 
 
 print(" i made changes in master branch for revert")
-
-print("i made this change for a rebase test in master 2")
