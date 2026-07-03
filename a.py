@@ -38,7 +38,7 @@ class Cat(Animal):
 
 
 # Objects
-dog = Dog("ammu", "Labrador")
+dog = Dog("mylo", "Labrador")
 cat = Cat("Kitty")
 
 dog.sound()
