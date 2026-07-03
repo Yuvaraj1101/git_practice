@@ -38,7 +38,11 @@ class Cat(Animal):
 
 
 # Objects
+<<<<<<< HEAD
 dog = Dog("ammu", "Labrador")
+=======
+dog = Dog("horlicks", "Labrador")
+>>>>>>> f1
 cat = Cat("Kitty")
 
 dog.sound()
